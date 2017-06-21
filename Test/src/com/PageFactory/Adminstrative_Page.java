@@ -11,7 +11,7 @@ public class Adminstrative_Page
 
 	// Elements in Admin Page
 		@FindBy(id= "spaitem-confmgmt")private static WebElement Link_ConfigMgmt;
-		
+		// Edit Hospital Link
 		@FindBy(id= "spaitem-hospitals")private static WebElement Link_EditHosp_Dept;
 		
 		@FindBy(id= "menuitem-issue")private static WebElement Link_ConfigParameterProfile;
