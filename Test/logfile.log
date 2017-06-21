@@ -1,0 +1,394 @@
+2017-04-03 18:37:57,943 INFO  [Log] Read From File URL :null
+Username : null
+Password null
+Browser :null 
+2017-04-03 18:38:10,196 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-03 18:43:21,589 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :null
+ Username : null
+ Password null
+ Browser :null 
+2017-04-03 18:43:30,045 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-03 18:44:08,345 ERROR [Log] File Not Found 
+2017-04-03 18:51:31,356 INFO  [Log] **************************************************************************************** 
+2017-04-03 18:51:31,357 INFO  [Log] **************************************************************************************** 
+2017-04-03 18:51:31,358 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Validate_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-03 18:51:31,358 INFO  [Log] **************************************************************************************** 
+2017-04-03 18:51:31,358 INFO  [Log] **************************************************************************************** 
+2017-04-03 18:51:31,366 INFO  [Log] File Found , started Reading 
+2017-04-03 18:51:31,366 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :null
+ Username : null
+ Password null
+ Browser :null 
+2017-04-03 18:51:45,675 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-03 18:51:50,494 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-03 18:51:50,494 INFO  [Log] X 
+2017-04-03 18:51:50,494 INFO  [Log] X 
+2017-04-03 18:51:50,495 INFO  [Log] X 
+2017-04-03 18:51:50,495 INFO  [Log] X 
+2017-04-12 11:22:44,251 INFO  [Log] File Found , started Reading 
+2017-04-12 11:22:44,253 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :null
+ Username : null
+ Password null
+ Browser :null 
+2017-04-12 11:22:58,757 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:24:41,561 INFO  [Log] File Found , started Reading 
+2017-04-12 11:24:41,563 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :null
+ Username : null
+ Password null
+ Browser :null 
+2017-04-12 11:24:53,127 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:25:01,058 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:25:27,399 INFO  [Log] File Found , started Reading 
+2017-04-12 11:25:27,401 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :null
+ Username : null
+ Password null
+ Browser :null 
+2017-04-12 11:25:37,739 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:25:45,650 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:31:02,656 INFO  [Log] File Found , started Reading 
+2017-04-12 11:31:02,658 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :null
+ Username : null
+ Password null
+ Browser :null 
+2017-04-12 11:31:14,098 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:31:22,986 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:31:22,986 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:33:59,692 INFO  [Log] File Found , started Reading 
+2017-04-12 11:33:59,694 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :null
+ Username : null
+ Password null
+ Browser :null 
+2017-04-12 11:34:12,231 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:34:19,843 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:34:19,844 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:35:52,291 INFO  [Log] **************************************************************************************** 
+2017-04-12 11:35:52,292 INFO  [Log] **************************************************************************************** 
+2017-04-12 11:35:52,293 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Validate_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-12 11:35:52,293 INFO  [Log] **************************************************************************************** 
+2017-04-12 11:35:52,293 INFO  [Log] **************************************************************************************** 
+2017-04-12 11:35:52,294 INFO  [Log] File Found , started Reading 
+2017-04-12 11:35:52,295 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:36:01,404 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:36:09,386 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:36:09,386 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-12 11:36:09,386 INFO  [Log] X 
+2017-04-12 11:36:09,386 INFO  [Log] X 
+2017-04-12 11:36:09,386 INFO  [Log] X 
+2017-04-12 11:36:09,386 INFO  [Log] X 
+2017-04-12 11:36:37,814 INFO  [Log] File Found , started Reading 
+2017-04-12 11:36:37,815 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:36:49,311 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:36:56,348 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:36:56,348 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:38:55,137 INFO  [Log] File Found , started Reading 
+2017-04-12 11:38:55,139 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:39:03,051 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:39:11,123 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:39:11,123 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:41:36,164 INFO  [Log] File Found , started Reading 
+2017-04-12 11:41:36,165 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:41:46,149 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:41:55,208 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:41:55,208 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:47:48,939 INFO  [Log] File Found , started Reading 
+2017-04-12 11:47:48,941 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:48:02,823 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:48:12,327 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:48:12,327 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:50:43,661 INFO  [Log] File Found , started Reading 
+2017-04-12 11:50:43,662 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:50:58,239 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:51:06,137 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:51:06,137 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:54:59,620 INFO  [Log] File Found , started Reading 
+2017-04-12 11:54:59,622 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:55:08,838 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:55:19,991 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:55:19,992 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 11:57:09,772 INFO  [Log] File Found , started Reading 
+2017-04-12 11:57:09,774 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 11:57:20,982 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 11:57:30,761 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 11:57:30,761 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 12:11:58,546 INFO  [Log] File Found , started Reading 
+2017-04-12 12:11:58,548 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 12:12:09,768 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 12:12:17,129 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 12:12:17,129 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 12:15:10,250 INFO  [Log] File Found , started Reading 
+2017-04-12 12:15:10,253 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 12:15:23,190 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 12:15:31,266 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 12:15:31,266 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 12:48:45,492 INFO  [Log] File Found , started Reading 
+2017-04-12 12:48:45,493 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 12:48:57,957 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 12:49:06,140 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 12:49:06,140 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 12:50:13,281 INFO  [Log] File Found , started Reading 
+2017-04-12 12:50:13,283 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 12:50:22,903 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 12:50:30,868 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 12:50:30,868 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 12:51:18,240 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 12:51:18,315 INFO  [Log] File Found , started Reading 
+2017-04-12 12:51:18,315 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 12:51:18,315 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 12:51:30,738 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 12:51:30,738 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 12:51:31,081 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 12:56:50,915 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 12:56:51,007 INFO  [Log] File Found , started Reading 
+2017-04-12 12:56:51,007 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 12:56:51,008 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 12:57:00,153 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 12:57:00,154 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 12:57:00,645 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 13:00:59,420 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 13:00:59,505 INFO  [Log] File Found , started Reading 
+2017-04-12 13:00:59,505 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 13:00:59,506 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 13:01:07,006 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 13:01:07,006 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 13:01:07,238 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 13:05:24,937 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 13:05:24,977 INFO  [Log] File Found , started Reading 
+2017-04-12 13:05:24,978 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 13:05:24,978 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 13:05:35,337 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 13:05:35,338 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 13:05:35,838 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 13:07:39,270 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 13:07:39,357 INFO  [Log] File Found , started Reading 
+2017-04-12 13:07:39,357 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 13:07:39,358 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 13:07:48,134 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 13:07:48,134 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 13:07:48,522 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 13:12:19,159 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 13:12:19,238 INFO  [Log] File Found , started Reading 
+2017-04-12 13:12:19,238 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 13:12:19,238 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 13:12:28,461 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 13:12:28,461 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 13:12:29,017 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 14:02:26,653 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 14:02:26,687 INFO  [Log] File Found , started Reading 
+2017-04-12 14:02:26,688 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 14:02:26,688 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 14:02:34,102 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 14:02:34,102 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 14:02:34,503 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 14:03:34,515 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 14:03:34,595 INFO  [Log] File Found , started Reading 
+2017-04-12 14:03:34,595 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 14:03:34,595 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 14:03:42,868 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 14:03:42,868 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 14:03:43,123 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 14:05:03,080 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 14:05:03,163 INFO  [Log] File Found , started Reading 
+2017-04-12 14:05:03,163 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 14:05:03,164 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 14:05:08,888 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 14:05:08,889 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 14:05:09,276 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 14:05:09,634 INFO  [Log] Received Button's Address Method :[[FirefoxDriver: firefox on WINDOWS (ff1fb93c-0ad0-4c36-9561-8ff59b4de0a4)] -> id: btnLogIn] 
+2017-04-12 14:05:51,510 ERROR [Log] Invalid !! ReceivedProxy element for: AjaxElementLocator 'By.id: btnLogIn'as Button Address  
+2017-04-12 14:05:51,512 INFO  [Log] Received Button's Address Method :null 
+2017-04-12 14:09:37,177 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 14:09:37,257 INFO  [Log] File Found , started Reading 
+2017-04-12 14:09:37,257 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 14:09:37,257 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 14:09:43,035 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 14:09:43,036 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 14:09:43,458 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 15:34:15,266 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 15:34:15,300 INFO  [Log] File Found , started Reading 
+2017-04-12 15:34:15,300 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 15:34:15,300 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 15:34:23,152 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 15:34:23,152 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 15:34:23,295 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 15:34:49,662 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 15:34:49,708 INFO  [Log] File Found , started Reading 
+2017-04-12 15:34:49,708 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 15:34:49,708 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 15:34:53,200 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 15:34:53,200 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 15:34:53,364 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 15:37:08,604 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 15:37:08,732 INFO  [Log] File Found , started Reading 
+2017-04-12 15:37:08,732 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 15:37:08,733 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 15:37:12,927 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 15:37:12,927 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 15:37:13,232 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 15:41:39,351 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 15:41:39,423 INFO  [Log] File Found , started Reading 
+2017-04-12 15:41:39,423 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 15:41:39,424 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 15:41:47,633 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 15:41:47,633 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 15:41:47,988 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-12 15:43:21,248 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-12 15:43:28,268 INFO  [Log] File Found , started Reading 
+2017-04-12 15:43:28,269 INFO  [Log] ReadDataFromPropFile() Executed  :  URL :http://dkrmed706/Aqure/Dashboard
+ Username : admin
+ Password Admin@123
+ Browser :IE 
+2017-04-12 15:43:28,269 INFO  [Log] Received http://dkrmed706/Aqure/Dashboard as Parameter in LaunchBrowser() Method 
+2017-04-12 15:43:32,987 INFO  [Log] Exiting form LaunchBrowser Without any Issue 
+2017-04-12 15:43:32,988 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-12 15:43:33,306 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-13 15:19:57,007 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-17 09:50:56,997 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-17 09:55:54,983 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-17 09:55:55,055 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-17 09:56:21,172 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-17 09:57:50,256 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-17 09:57:50,333 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-17 09:58:16,426 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-17 10:00:26,768 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-17 10:00:26,854 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-17 10:00:53,140 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 10:44:37,286 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 10:44:37,337 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 10:44:37,752 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 10:45:20,281 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 10:45:20,928 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 10:45:21,540 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 10:49:13,127 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 10:49:13,459 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 10:49:13,981 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 10:50:52,965 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 10:50:53,310 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 10:50:53,792 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 10:53:23,426 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 10:53:24,017 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 10:53:24,782 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 10:58:33,017 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 10:58:33,649 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 10:58:34,594 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 15:06:05,377 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 15:06:27,068 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 15:06:27,779 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 15:10:11,004 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 15:10:11,369 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 15:10:11,939 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-18 15:11:09,432 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-18 15:11:10,225 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-18 15:11:11,086 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-20 12:50:25,055 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-20 12:50:25,379 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-20 12:50:25,801 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-25 11:08:27,125 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-25 11:08:27,739 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-25 11:08:28,261 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-25 11:16:47,778 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-25 11:16:48,160 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-25 11:16:48,680 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-04-25 11:40:23,583 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-04-25 11:40:23,952 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-04-25 11:40:24,570 INFO  [Log] Received USer name in SetUSerName Method :Admin@123 
+2017-06-20 11:20:18,519 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 11:22:13,445 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 11:24:17,695 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:14:52,385 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:16:11,727 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:24:38,551 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-06-20 14:24:38,636 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:24:40,243 INFO  [Log] Received USer name in SetUSerName Method :P@ssw0rd 
+2017-06-20 14:27:47,793 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-06-20 14:27:47,892 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:27:49,515 INFO  [Log] Received USer name in SetUSerName Method :P@ssw0rd 
+2017-06-20 14:30:33,058 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-06-20 14:30:33,161 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:30:34,773 INFO  [Log] Received USer name in SetUSerName Method :P@ssw0rd 
+2017-06-20 14:32:07,611 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-06-20 14:32:07,723 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:32:09,362 INFO  [Log] Received USer name in SetUSerName Method :P@ssw0rd 
+2017-06-20 14:37:46,847 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-06-20 14:37:46,977 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:37:48,555 INFO  [Log] Received USer name in SetUSerName Method :P@ssw0rd 
+2017-06-20 14:41:38,278 INFO  [Log] Browser invoked from AqureLoginPage Constructor() 
+2017-06-20 14:41:38,330 INFO  [Log] Received USer name in SetUSerName Method :admin 
+2017-06-20 14:41:39,829 INFO  [Log] Received USer name in SetUSerName Method :P@ssw0rd 
