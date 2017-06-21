@@ -25,7 +25,7 @@ public class Operator_Page
 	
 	
 	
-	
+	//Finding Add Opertor Button
 	@FindBy(id= "btnAddOperator")public static WebElement Btn_AddOperator;
 	
 	@FindBy(id= "btnAssignCourse")private static WebElement AssignCoursBtn;
@@ -58,7 +58,7 @@ public class Operator_Page
 	
 	
 	
-	
+	//Constructor to Initialize all the web elements
 	public Operator_Page()
 	{
 		 
