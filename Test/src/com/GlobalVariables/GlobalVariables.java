@@ -9,7 +9,8 @@ public class GlobalVariables
 
 	public static String LoginUserName = "admin";
 	public static String OpName;
-	public static String Email_Id = "operator1.aqure@gmail.com";
+	public static String Email_Id = "ravikiran.mallappa@gmail.com";
+	public static String Gmail_Pswd = "rh028133!(**";
 	public static String Op_Password = "";
 	public static String User_Password;
 	public static String OpHomeHosp = "Hospital1";
