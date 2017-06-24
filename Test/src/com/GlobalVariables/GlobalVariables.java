@@ -16,7 +16,7 @@ public class GlobalVariables
 	public static String OpHomeHosp = "Hospital1";
 	public static String OpHomeDept = "Dept1";
 	public static String LoginPasswrd = "P@ssw0rd";
-
+	public static String Gmail_URL = "www.gmail.com";
 	public static String GetCurrentTimeStamp()
 {
 	SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");

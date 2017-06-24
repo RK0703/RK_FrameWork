@@ -15,7 +15,7 @@ import java.util.Properties;
 public class ReadSetUpData 
 
 {
-
+	
 	public static String URL = "http://localhost/Aqure";
 	public static String BrowserName ;
 	public static String driverPath = "K://SeleniumRelatedFiles//Drivers//";

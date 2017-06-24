@@ -23,12 +23,14 @@ public class Gmail
 	@FindBy(id= "gbqfb")private static WebElement Btn_Gmail_Search;
 	
 	@FindBy(id= "xY a4W")private static WebElement Gmail_FirstRow;
+	//AqureLoginPage ap = new AqureLoginPage();
 	
 	public static WebDriver GmailDriver = AqureLoginPage.driver;
 	
 	public Gmail()
 	{
-		 
+		AqureLoginPage ap = new AqureLoginPage();
+		
 		PageFactory.initElements(new AjaxElementLocatorFactory(AqureLoginPage.driver, AqureLoginPage.TimeoutValue), this);
 
 	}
@@ -37,9 +39,7 @@ public class Gmail
 public static void Launch_Gmail()
 {
 		
-		
-		
-		GmailDriver.get("www.gmail.com");
+		GmailDriver.get(GlobalVariables.Gmail_URL);
 
 }
 	public static void SearchOPName()
@@ -59,12 +59,10 @@ public static void Launch_Gmail()
 		
 	}
 	
-	public static void Verify_TextIn_Gmail(String TxtInMail)
+	public static void Verify_TextIn_Gmail(String ActualString , String ExpectedStirng)
 	{
-		String ExpectedString = "The password for your Google Account ravikiran.mallappa@gmail.com was recently changed";
 		
-	//	String actualString = 
-		Assert.assertEquals(TxtInMail,GmailDriver.getPageSource().contains(ExpectedString));
+		Assert.assertEquals(ActualString,ExpectedStirng);
 		
 		
 		
